@@ -13,7 +13,7 @@ body{
     background-color: silver;
     padding: 20px;
     justify-content: center;
-    align-items: center;
+    /* align-items: center; */
     border-radius: 26px;
  box-shadow: 18px 18px 18px 1px black;
  border: none;
@@ -58,4 +58,5 @@ button:hover{
 }
 .orange:hover {
     background-color:orange;
+
 }
